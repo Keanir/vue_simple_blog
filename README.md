@@ -2,6 +2,10 @@
 
 ## Project setup
 ```
+
+## Простой блог на Vue.js с vuex, vue router и Firebase
+```
+
 npm install
 ```
 
